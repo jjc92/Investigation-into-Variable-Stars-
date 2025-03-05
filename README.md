@@ -1,2 +1,2 @@
-# TA5-Astro-
+# Astrophyics Project - Investigation into Variable Stars 
 Anything and Everything for the project 
